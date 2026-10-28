@@ -8,6 +8,12 @@ I build AI systems from strategy through production. As an AI Operating Partner,
 - [Chessvia.AI](https://chessvia.ai): A voice AI chess coach built to explain moves and help players learn from their games.
 - [TANKBLAST](https://tankblast.com): A browser battle royale where every shot pushes your tank backward. [Source](https://github.com/gbouslov/primal-hunt).
 
+## Open lists
+
+Curated, source-checked lists for developers building with AI agents. Each one is refreshed as the projects it lists change.
+
+- [Best Claude Code plugins](https://github.com/gbouslov/best-claude-code-plugins): 34 plugins chosen by the job you need done, with what each installs, its setup and an install command.
+
 ## Research and writing
 
 I coauthored BCG research on how AI changes corporate strategy, AI-only firms, and growth transformations.
