@@ -13,6 +13,7 @@ I build AI systems from strategy through production. As an AI Operating Partner,
 Curated, source-checked lists for developers building with AI agents. Each one is refreshed as the projects it lists change.
 
 - [Best Claude Code plugins](https://github.com/gbouslov/best-claude-code-plugins): 34 plugins chosen by the job you need done, with what each installs, its setup and an install command.
+- [Best Claude Code skills](https://github.com/gbouslov/best-claude-code-skills): 42 skill collections and specialist skills organised by the work you need to do, with what each adds and how to install it.
 
 ## Research and writing
 
