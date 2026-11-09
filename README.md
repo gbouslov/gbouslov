@@ -1,6 +1,6 @@
 # Gabe Bouslov
 
-I build things with Claude Code and Codex: games, agents, and tools that fix my own small annoyances. Before this I did applied AI at BCG.
+Building in strategy x AI with Claude Code and Codex: games, agents, and tools that fix my own small annoyances. Ex-BCG applied AI project leader.
 
 ## Fun projects
 
