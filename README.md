@@ -1,6 +1,6 @@
 # Gabe Bouslov
 
-I'm an independent forward deployed engineer. I work inside small, mid-size and regional businesses, find the work AI can take off their plate, and build it with them.
+I build things with Claude Code and Codex: games, agents, and tools that fix my own small annoyances. Before this I did applied AI at BCG.
 
 ## Fun projects
 
