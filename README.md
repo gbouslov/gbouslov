@@ -1,12 +1,11 @@
 # Gabe Bouslov
 
-I build AI systems from strategy through production. As an AI Operating Partner, I work across agent engineering, product, evaluation, adoption, and measurement.
+I'm an independent forward deployed engineer. I work inside small, mid-size and regional businesses, find the work AI can take off their plate, and build it with them.
 
-## Current work
+## Fun projects
 
 - [EraGuessr](https://eraguessr.ai): Explore historical places in immersive AI panoramas and guess where and when you are.
 - [Chessvia.AI](https://chessvia.ai): A voice AI chess coach built to explain moves and help players learn from their games.
-- [TANKBLAST](https://tankblast.com): A browser battle royale where every shot pushes your tank backward. [Source](https://github.com/gbouslov/primal-hunt).
 
 ## Open lists
 
