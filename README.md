@@ -18,7 +18,7 @@ Curated, source-checked lists, each kept current against its sources.
 
 ## Research and writing
 
-I coauthored BCG research on how AI changes corporate strategy, AI-only firms, and growth transformations.
+At BCG I wrote about how AI changes corporate strategy, AI-only firms, and growth transformations.
 
 - [The Corporate Strategy Function in an AI-First World](https://www.bcg.com/publications/2026/the-corporate-strategy-function-in-an-ai-first-world)
 - [Why CEOs Need to Prepare for AI-Only Rivals](https://www.bcg.com/publications/2025/why-ceos-need-to-prepare-for-ai-only-rivals)
